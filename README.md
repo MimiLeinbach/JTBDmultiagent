@@ -1,6 +1,10 @@
 # JTBD Multi-Agent System
 
 A multi-agent system designed to analyze user needs through the Jobs to Be Done (JTBD) framework.
+<img width="494" alt="image" src="https://github.com/user-attachments/assets/cd533466-7b8d-4be4-a1a5-1e0a38451a22" />
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/e3c5c291-2672-4f2e-9484-22730f91f8e1" />
+
+
 
 ## Overview
 
