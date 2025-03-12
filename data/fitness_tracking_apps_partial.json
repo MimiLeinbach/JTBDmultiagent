@@ -1,0 +1,97 @@
+{
+  "topic": "fitness tracking apps",
+  "sources": [
+    "Customer Support Logs",
+    "Product Reviews"
+  ],
+  "research_data": [
+    {
+      "statement": "The main reason I use fitness tracking apps is to save time on repetitive tasks.",
+      "source": "Customer Support Logs",
+      "context": "During a discussion about productivity and fitness tracking apps",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 34,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I want to use fitness tracking apps that doesn't require much training or setup.",
+      "source": "Customer Support Logs",
+      "context": "When discussing how they accomplish tasks with fitness tracking apps",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 65,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "Using fitness tracking apps gives me confidence that I won't miss anything important.",
+      "source": "Customer Support Logs",
+      "context": "During a conversation about satisfaction with fitness tracking apps",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 23,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "It's important that my boss sees me using fitness tracking apps to solve problems.",
+      "source": "Customer Support Logs",
+      "context": "When discussing how others perceive their use of fitness tracking apps",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 54,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I switch between different fitness tracking apps options until I find one that's efficient enough.",
+      "source": "Customer Support Logs",
+      "context": "When asked about their workflow with fitness tracking apps",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 52,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I have to use fitness tracking apps because it helps me organize everything in one place.",
+      "source": "Product Reviews",
+      "context": "During a discussion about productivity and fitness tracking apps",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 26,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I want people to see that I'm skilled with advanced fitness tracking apps features.",
+      "source": "Product Reviews",
+      "context": "In a conversation about workplace status and fitness tracking apps",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 31,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "Using the latest fitness tracking apps trends helps me stay relevant in my industry.",
+      "source": "Product Reviews",
+      "context": "During a discussion about professional identity and fitness tracking apps",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 63,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    }
+  ]
+}

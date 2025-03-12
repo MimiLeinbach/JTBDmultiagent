@@ -1,0 +1,485 @@
+{
+  "topic": "video conferencing tools",
+  "sources": [
+    "User Interviews",
+    "Customer Support Logs",
+    "Product Reviews",
+    "Survey Responses",
+    "Usability Testing"
+  ],
+  "research_data": [
+    {
+      "statement": "Using video conferencing tools gives me peace of mind knowing my work is backed up.",
+      "source": "User Interviews",
+      "context": "After using video conferencing tools for a challenging task",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 34,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "The most important thing for me is that video conferencing tools is reliable and doesn't crash.",
+      "source": "User Interviews",
+      "context": "When discussing how they accomplish tasks with video conferencing tools",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 63,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "The most important thing for me is that video conferencing tools is reliable and doesn't crash.",
+      "source": "User Interviews",
+      "context": "When discussing how they accomplish tasks with video conferencing tools",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 20,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "The most important thing for me is that video conferencing tools is reliable and doesn't crash.",
+      "source": "User Interviews",
+      "context": "When discussing how they accomplish tasks with video conferencing tools",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 35,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel like I belong to a community of professionals who use video conferencing tools.",
+      "source": "User Interviews",
+      "context": "When discussing how others perceive their use of video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 47,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "video conferencing tools needs to help me track my progress toward my goals.",
+      "source": "User Interviews",
+      "context": "When asked about their workflow with video conferencing tools",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 49,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "My colleagues respect me more when they see me using video conferencing tools effectively.",
+      "source": "User Interviews",
+      "context": "When asked about sharing their experience with video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 63,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "People ask for my advice about video conferencing tools, which makes me feel valued.",
+      "source": "User Interviews",
+      "context": "During a discussion about professional identity and video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 24,
+        "gender": "Female",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I don't talk about using video conferencing tools because I don't want to seem like I'm showing off.",
+      "source": "User Interviews",
+      "context": "When discussing how others perceive their use of video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 21,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel in control when I use video conferencing tools to organize my projects.",
+      "source": "Customer Support Logs",
+      "context": "When reflecting on their feelings about video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 59,
+        "gender": "Female",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "It's important that my boss sees me using video conferencing tools to solve problems.",
+      "source": "Customer Support Logs",
+      "context": "In a conversation about workplace status and video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 30,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "Using video conferencing tools gives me confidence that I won't miss anything important.",
+      "source": "Customer Support Logs",
+      "context": "After using video conferencing tools for a challenging task",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 30,
+        "gender": "Non-binary",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I trust that video conferencing tools will protect my privacy and security.",
+      "source": "Customer Support Logs",
+      "context": "When discussing stress factors related to video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 45,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "It's important that my boss sees me using video conferencing tools to solve problems.",
+      "source": "Customer Support Logs",
+      "context": "During a discussion about professional identity and video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 61,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "Being able to recommend good video conferencing tools solutions gives me status in my network.",
+      "source": "Customer Support Logs",
+      "context": "In a conversation about workplace status and video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 25,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I feel like I belong to a community of professionals who use video conferencing tools.",
+      "source": "Customer Support Logs",
+      "context": "When asked about sharing their experience with video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 65,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "Using video conferencing tools shows that I'm serious about my work.",
+      "source": "Customer Support Logs",
+      "context": "In a conversation about workplace status and video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 24,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "Using video conferencing tools allows me to accomplish multiple tasks at once.",
+      "source": "Customer Support Logs",
+      "context": "During a discussion about productivity and video conferencing tools",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 32,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "Being able to recommend good video conferencing tools solutions gives me status in my network.",
+      "source": "Product Reviews",
+      "context": "In a conversation about workplace status and video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 35,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I want my clients to be impressed by the video conferencing tools tools I use.",
+      "source": "Product Reviews",
+      "context": "In a conversation about workplace status and video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 45,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I feel overwhelmed by all the video conferencing tools options available.",
+      "source": "Product Reviews",
+      "context": "When reflecting on their feelings about video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 37,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "Using the latest video conferencing tools trends helps me stay relevant in my industry.",
+      "source": "Product Reviews",
+      "context": "When discussing how others perceive their use of video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 47,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I worry about making mistakes when using video conferencing tools for important tasks.",
+      "source": "Product Reviews",
+      "context": "When discussing stress factors related to video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 46,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "The main reason I use video conferencing tools is to save time on repetitive tasks.",
+      "source": "Product Reviews",
+      "context": "When discussing how they accomplish tasks with video conferencing tools",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 52,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel a sense of accomplishment when I master new video conferencing tools features.",
+      "source": "Product Reviews",
+      "context": "During a conversation about satisfaction with video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 34,
+        "gender": "Non-binary",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "Using video conferencing tools gives me peace of mind knowing my work is backed up.",
+      "source": "Product Reviews",
+      "context": "During a conversation about satisfaction with video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 30,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "Using video conferencing tools gives me confidence that I won't miss anything important.",
+      "source": "Survey Responses",
+      "context": "When discussing stress factors related to video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 40,
+        "gender": "Non-binary",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "The main reason I use video conferencing tools is to save time on repetitive tasks.",
+      "source": "Survey Responses",
+      "context": "When discussing how they accomplish tasks with video conferencing tools",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 48,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I feel a sense of accomplishment when I master new video conferencing tools features.",
+      "source": "Survey Responses",
+      "context": "During a conversation about satisfaction with video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 44,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I feel a sense of accomplishment when I master new video conferencing tools features.",
+      "source": "Survey Responses",
+      "context": "When discussing stress factors related to video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 51,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I don't want to be the only person in my team who doesn't understand video conferencing tools.",
+      "source": "Survey Responses",
+      "context": "When discussing how others perceive their use of video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 24,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "Using video conferencing tools allows me to accomplish multiple tasks at once.",
+      "source": "Survey Responses",
+      "context": "When asked about their workflow with video conferencing tools",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 34,
+        "gender": "Non-binary",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel stressed when video conferencing tools changes its interface or features.",
+      "source": "Survey Responses",
+      "context": "When reflecting on their feelings about video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 30,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I worry about making mistakes when using video conferencing tools for important tasks.",
+      "source": "Survey Responses",
+      "context": "When discussing stress factors related to video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 30,
+        "gender": "Female",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I don't want to be the only person in my team who doesn't understand video conferencing tools.",
+      "source": "Survey Responses",
+      "context": "During a discussion about professional identity and video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 49,
+        "gender": "Female",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I need to use video conferencing tools to get my work done faster.",
+      "source": "Survey Responses",
+      "context": "When asked about their workflow with video conferencing tools",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 27,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel in control when I use video conferencing tools to organize my projects.",
+      "source": "Usability Testing",
+      "context": "When discussing stress factors related to video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 42,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel like I belong to a community of professionals who use video conferencing tools.",
+      "source": "Usability Testing",
+      "context": "When asked about sharing their experience with video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 29,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I'm trying to find a video conferencing tools solution that integrates with my existing tools.",
+      "source": "Usability Testing",
+      "context": "While demonstrating their use of video conferencing tools",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 53,
+        "gender": "Non-binary",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel stressed when video conferencing tools changes its interface or features.",
+      "source": "Usability Testing",
+      "context": "When reflecting on their feelings about video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 27,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "Using the latest video conferencing tools trends helps me stay relevant in my industry.",
+      "source": "Usability Testing",
+      "context": "During a discussion about professional identity and video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 56,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I feel in control when I use video conferencing tools to organize my projects.",
+      "source": "Usability Testing",
+      "context": "When reflecting on their feelings about video conferencing tools",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 19,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I want to be seen as an expert in video conferencing tools by my peers.",
+      "source": "Usability Testing",
+      "context": "In a conversation about workplace status and video conferencing tools",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 53,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    }
+  ]
+}

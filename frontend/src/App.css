@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.min-vh-100 {
+  min-height: 100vh;
+}
+
+.flex-grow-1 {
+  flex-grow: 1;
+}
+
+.search-container h1 {
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+.results-section {
+  padding: 2rem 0;
+}
+
+.theme-heading {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #343a40;
+  border-bottom: 2px solid #f0f0f0;
+  padding-bottom: 0.5rem;
+}
+
+.job-type-heading {
+  font-size: 1.3rem;
+  margin: 1.5rem 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.reliability-badge {
+  font-size: 0.9rem;
+  padding: 0.4rem 0.6rem;
+  border-radius: 20px;
+  margin-left: 10px;
+}
+
+.research-heading {
+  color: #495057;
+  margin-bottom: 1rem;
+}
+
+.method-card {
+  margin-bottom: 1rem;
+}
+
+.method-priority {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.high-priority {
+  color: #dc3545;
+}
+
+.medium-priority {
+  color: #fd7e14;
+}
+
+.low-priority {
+  color: #6c757d;
+} 

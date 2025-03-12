@@ -1,0 +1,518 @@
+{
+  "topic": "online grocery shopping",
+  "sources": [
+    "User Interviews",
+    "Customer Support Logs",
+    "Product Reviews",
+    "Survey Responses",
+    "Usability Testing"
+  ],
+  "research_data": [
+    {
+      "statement": "Using online grocery shopping gives me peace of mind knowing my work is backed up.",
+      "source": "User Interviews",
+      "context": "When reflecting on their feelings about online grocery shopping",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 38,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I have to use online grocery shopping because it helps me organize everything in one place.",
+      "source": "User Interviews",
+      "context": "During a discussion about productivity and online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 43,
+        "gender": "Female",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I don't talk about using online grocery shopping because I don't want to seem like I'm showing off.",
+      "source": "User Interviews",
+      "context": "When discussing how others perceive their use of online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 20,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I feel satisfied when online grocery shopping helps me complete something difficult.",
+      "source": "User Interviews",
+      "context": "When reflecting on their feelings about online grocery shopping",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 38,
+        "gender": "Non-binary",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel anxious when online grocery shopping isn't working correctly.",
+      "source": "User Interviews",
+      "context": "After using online grocery shopping for a challenging task",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 58,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I get excited when I discover new ways that online grocery shopping can help me.",
+      "source": "User Interviews",
+      "context": "When reflecting on their feelings about online grocery shopping",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 61,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I switch between different online grocery shopping options until I find one that's efficient enough.",
+      "source": "User Interviews",
+      "context": "While demonstrating their use of online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 47,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I need online grocery shopping to handle the complex parts of the process automatically.",
+      "source": "User Interviews",
+      "context": "During a discussion about productivity and online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 26,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I need online grocery shopping to handle the complex parts of the process automatically.",
+      "source": "Customer Support Logs",
+      "context": "When asked about their workflow with online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 29,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "Being able to recommend good online grocery shopping solutions gives me status in my network.",
+      "source": "Customer Support Logs",
+      "context": "In a conversation about workplace status and online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 35,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I feel anxious when online grocery shopping isn't working correctly.",
+      "source": "Customer Support Logs",
+      "context": "After using online grocery shopping for a challenging task",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 47,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "Using the latest online grocery shopping trends helps me stay relevant in my industry.",
+      "source": "Customer Support Logs",
+      "context": "During a discussion about professional identity and online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 48,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I want to be seen as an expert in online grocery shopping by my peers.",
+      "source": "Customer Support Logs",
+      "context": "When discussing how others perceive their use of online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 31,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "People ask for my advice about online grocery shopping, which makes me feel valued.",
+      "source": "Customer Support Logs",
+      "context": "In a conversation about workplace status and online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 36,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "It's important that my boss sees me using online grocery shopping to solve problems.",
+      "source": "Customer Support Logs",
+      "context": "During a discussion about professional identity and online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 33,
+        "gender": "Female",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "online grocery shopping needs to help me track my progress toward my goals.",
+      "source": "Customer Support Logs",
+      "context": "When discussing how they accomplish tasks with online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 37,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I feel overwhelmed by all the online grocery shopping options available.",
+      "source": "Customer Support Logs",
+      "context": "During a conversation about satisfaction with online grocery shopping",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 36,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I want to be seen as an expert in online grocery shopping by my peers.",
+      "source": "Customer Support Logs",
+      "context": "When asked about sharing their experience with online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 32,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel anxious when online grocery shopping isn't working correctly.",
+      "source": "Product Reviews",
+      "context": "During a conversation about satisfaction with online grocery shopping",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 56,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I worry about making mistakes when using online grocery shopping for important tasks.",
+      "source": "Product Reviews",
+      "context": "During a conversation about satisfaction with online grocery shopping",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 26,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I want to use online grocery shopping that doesn't require much training or setup.",
+      "source": "Product Reviews",
+      "context": "While demonstrating their use of online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 33,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I want to use online grocery shopping that doesn't require much training or setup.",
+      "source": "Product Reviews",
+      "context": "During a discussion about productivity and online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 29,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "Using online grocery shopping shows that I'm serious about my work.",
+      "source": "Product Reviews",
+      "context": "When discussing how others perceive their use of online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 53,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "It's important that my boss sees me using online grocery shopping to solve problems.",
+      "source": "Product Reviews",
+      "context": "When asked about sharing their experience with online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 41,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "My colleagues respect me more when they see me using online grocery shopping effectively.",
+      "source": "Product Reviews",
+      "context": "When discussing how others perceive their use of online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 59,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I feel overwhelmed by all the online grocery shopping options available.",
+      "source": "Product Reviews",
+      "context": "During a conversation about satisfaction with online grocery shopping",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 50,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I want my clients to be impressed by the online grocery shopping tools I use.",
+      "source": "Product Reviews",
+      "context": "During a discussion about professional identity and online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 54,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "online grocery shopping needs to help me track my progress toward my goals.",
+      "source": "Product Reviews",
+      "context": "During a discussion about productivity and online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 42,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I feel like I belong to a community of professionals who use online grocery shopping.",
+      "source": "Survey Responses",
+      "context": "During a discussion about professional identity and online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 19,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I feel like I belong to a community of professionals who use online grocery shopping.",
+      "source": "Survey Responses",
+      "context": "When asked about sharing their experience with online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 42,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "online grocery shopping helps me avoid mistakes in my work.",
+      "source": "Survey Responses",
+      "context": "During a discussion about productivity and online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 47,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I want to use online grocery shopping that doesn't require much training or setup.",
+      "source": "Survey Responses",
+      "context": "While demonstrating their use of online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 48,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "online grocery shopping needs to help me track my progress toward my goals.",
+      "source": "Survey Responses",
+      "context": "While demonstrating their use of online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 65,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel stressed when online grocery shopping changes its interface or features.",
+      "source": "Survey Responses",
+      "context": "When discussing stress factors related to online grocery shopping",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 22,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "Using online grocery shopping shows that I'm serious about my work.",
+      "source": "Survey Responses",
+      "context": "During a discussion about professional identity and online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 21,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I want my clients to be impressed by the online grocery shopping tools I use.",
+      "source": "Survey Responses",
+      "context": "When discussing how others perceive their use of online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 51,
+        "gender": "Non-binary",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I don't talk about using online grocery shopping because I don't want to seem like I'm showing off.",
+      "source": "Usability Testing",
+      "context": "When discussing how others perceive their use of online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 35,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "Using online grocery shopping shows that I'm serious about my work.",
+      "source": "Usability Testing",
+      "context": "During a discussion about professional identity and online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 65,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I'm trying to find a online grocery shopping solution that integrates with my existing tools.",
+      "source": "Usability Testing",
+      "context": "When asked about their workflow with online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 28,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "online grocery shopping needs to help me track my progress toward my goals.",
+      "source": "Usability Testing",
+      "context": "When asked about their workflow with online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 56,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I get frustrated when online grocery shopping is too complicated to figure out quickly.",
+      "source": "Usability Testing",
+      "context": "After using online grocery shopping for a challenging task",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 46,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I want to use online grocery shopping that doesn't require much training or setup.",
+      "source": "Usability Testing",
+      "context": "When discussing how they accomplish tasks with online grocery shopping",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 25,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "Using the latest online grocery shopping trends helps me stay relevant in my industry.",
+      "source": "Usability Testing",
+      "context": "When discussing how others perceive their use of online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 22,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "Using the latest online grocery shopping trends helps me stay relevant in my industry.",
+      "source": "Usability Testing",
+      "context": "During a discussion about professional identity and online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 62,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel satisfied when online grocery shopping helps me complete something difficult.",
+      "source": "Usability Testing",
+      "context": "When discussing stress factors related to online grocery shopping",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 26,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I don't want to be the only person in my team who doesn't understand online grocery shopping.",
+      "source": "Usability Testing",
+      "context": "In a conversation about workplace status and online grocery shopping",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 26,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    }
+  ]
+}

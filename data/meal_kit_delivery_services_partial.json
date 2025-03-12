@@ -1,0 +1,97 @@
+{
+  "topic": "meal kit delivery services",
+  "sources": [
+    "Customer Support Logs",
+    "User Interviews"
+  ],
+  "research_data": [
+    {
+      "statement": "Using the latest meal kit delivery services trends helps me stay relevant in my industry.",
+      "source": "Customer Support Logs",
+      "context": "In a conversation about workplace status and meal kit delivery services",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 28,
+        "gender": "Female",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I need to use meal kit delivery services to get my work done faster.",
+      "source": "Customer Support Logs",
+      "context": "During a discussion about productivity and meal kit delivery services",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 56,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I switch between different meal kit delivery services options until I find one that's efficient enough.",
+      "source": "Customer Support Logs",
+      "context": "During a discussion about productivity and meal kit delivery services",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 24,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I feel satisfied when meal kit delivery services helps me complete something difficult.",
+      "source": "User Interviews",
+      "context": "During a conversation about satisfaction with meal kit delivery services",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 19,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel a sense of accomplishment when I master new meal kit delivery services features.",
+      "source": "User Interviews",
+      "context": "During a conversation about satisfaction with meal kit delivery services",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 50,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I worry about making mistakes when using meal kit delivery services for important tasks.",
+      "source": "User Interviews",
+      "context": "After using meal kit delivery services for a challenging task",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 51,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I need meal kit delivery services to work across all my devices seamlessly.",
+      "source": "User Interviews",
+      "context": "During a discussion about productivity and meal kit delivery services",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 47,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I want to be seen as an expert in meal kit delivery services by my peers.",
+      "source": "User Interviews",
+      "context": "In a conversation about workplace status and meal kit delivery services",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 61,
+        "gender": "Female",
+        "experience_level": "Beginner"
+      }
+    }
+  ]
+}

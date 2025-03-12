@@ -1,0 +1,397 @@
+{
+  "topic": "project management software",
+  "sources": [
+    "User Interviews",
+    "Customer Support Logs",
+    "Product Reviews",
+    "Survey Responses",
+    "Usability Testing"
+  ],
+  "research_data": [
+    {
+      "statement": "I get excited when I discover new ways that project management software can help me.",
+      "source": "User Interviews",
+      "context": "When reflecting on their feelings about project management software",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 24,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I worry about making mistakes when using project management software for important tasks.",
+      "source": "User Interviews",
+      "context": "During a conversation about satisfaction with project management software",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 60,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "Using project management software gives me peace of mind knowing my work is backed up.",
+      "source": "User Interviews",
+      "context": "When reflecting on their feelings about project management software",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 38,
+        "gender": "Female",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I want people to see that I'm skilled with advanced project management software features.",
+      "source": "User Interviews",
+      "context": "When discussing how others perceive their use of project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 53,
+        "gender": "Non-binary",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I need project management software to work across all my devices seamlessly.",
+      "source": "User Interviews",
+      "context": "When discussing how they accomplish tasks with project management software",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 64,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I want people to see that I'm skilled with advanced project management software features.",
+      "source": "User Interviews",
+      "context": "When discussing how others perceive their use of project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 24,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "My colleagues respect me more when they see me using project management software effectively.",
+      "source": "Customer Support Logs",
+      "context": "During a discussion about professional identity and project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 30,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I feel anxious when project management software isn't working correctly.",
+      "source": "Customer Support Logs",
+      "context": "When discussing stress factors related to project management software",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 39,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I need project management software to handle the complex parts of the process automatically.",
+      "source": "Customer Support Logs",
+      "context": "During a discussion about productivity and project management software",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 41,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I need to use project management software to get my work done faster.",
+      "source": "Customer Support Logs",
+      "context": "When asked about their workflow with project management software",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 38,
+        "gender": "Non-binary",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "People ask for my advice about project management software, which makes me feel valued.",
+      "source": "Customer Support Logs",
+      "context": "In a conversation about workplace status and project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 58,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I want to use project management software that doesn't require much training or setup.",
+      "source": "Customer Support Logs",
+      "context": "While demonstrating their use of project management software",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 47,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "It's important that my boss sees me using project management software to solve problems.",
+      "source": "Customer Support Logs",
+      "context": "During a discussion about professional identity and project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 31,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I want to be seen as an expert in project management software by my peers.",
+      "source": "Customer Support Logs",
+      "context": "When asked about sharing their experience with project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 52,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "Being able to recommend good project management software solutions gives me status in my network.",
+      "source": "Customer Support Logs",
+      "context": "During a discussion about professional identity and project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 50,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "project management software helps me avoid mistakes in my work.",
+      "source": "Product Reviews",
+      "context": "During a discussion about productivity and project management software",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 30,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I want my clients to be impressed by the project management software tools I use.",
+      "source": "Product Reviews",
+      "context": "When asked about sharing their experience with project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 22,
+        "gender": "Non-binary",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "Using project management software shows that I'm serious about my work.",
+      "source": "Product Reviews",
+      "context": "When discussing how others perceive their use of project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 48,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I feel like I belong to a community of professionals who use project management software.",
+      "source": "Product Reviews",
+      "context": "When discussing how others perceive their use of project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 31,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "Using project management software gives me confidence that I won't miss anything important.",
+      "source": "Product Reviews",
+      "context": "After using project management software for a challenging task",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 58,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "Using project management software gives me confidence that I won't miss anything important.",
+      "source": "Survey Responses",
+      "context": "During a conversation about satisfaction with project management software",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 58,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "project management software helps me avoid mistakes in my work.",
+      "source": "Survey Responses",
+      "context": "When asked about their workflow with project management software",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 46,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I get frustrated when project management software is too complicated to figure out quickly.",
+      "source": "Survey Responses",
+      "context": "After using project management software for a challenging task",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 49,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "It's important that my boss sees me using project management software to solve problems.",
+      "source": "Survey Responses",
+      "context": "When discussing how others perceive their use of project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 43,
+        "gender": "Non-binary",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I feel a sense of accomplishment when I master new project management software features.",
+      "source": "Survey Responses",
+      "context": "When reflecting on their feelings about project management software",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 41,
+        "gender": "Non-binary",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I switch between different project management software options until I find one that's efficient enough.",
+      "source": "Usability Testing",
+      "context": "While demonstrating their use of project management software",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 32,
+        "gender": "Non-binary",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "Using the latest project management software trends helps me stay relevant in my industry.",
+      "source": "Usability Testing",
+      "context": "When asked about sharing their experience with project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 20,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "The most important thing for me is that project management software is reliable and doesn't crash.",
+      "source": "Usability Testing",
+      "context": "During a discussion about productivity and project management software",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 60,
+        "gender": "Non-binary",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I get frustrated when project management software is too complicated to figure out quickly.",
+      "source": "Usability Testing",
+      "context": "During a conversation about satisfaction with project management software",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 22,
+        "gender": "Female",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "Using project management software gives me peace of mind knowing my work is backed up.",
+      "source": "Usability Testing",
+      "context": "When reflecting on their feelings about project management software",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 45,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I feel satisfied when project management software helps me complete something difficult.",
+      "source": "Usability Testing",
+      "context": "When discussing stress factors related to project management software",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 42,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "Using project management software gives me confidence that I won't miss anything important.",
+      "source": "Usability Testing",
+      "context": "After using project management software for a challenging task",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 38,
+        "gender": "Male",
+        "experience_level": "Intermediate"
+      }
+    },
+    {
+      "statement": "I want to be seen as an expert in project management software by my peers.",
+      "source": "Usability Testing",
+      "context": "During a discussion about professional identity and project management software",
+      "job_type": "social",
+      "user_demographics": {
+        "age": 35,
+        "gender": "Male",
+        "experience_level": "Beginner"
+      }
+    },
+    {
+      "statement": "I feel in control when I use project management software to organize my projects.",
+      "source": "Usability Testing",
+      "context": "When reflecting on their feelings about project management software",
+      "job_type": "emotional",
+      "user_demographics": {
+        "age": 40,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    },
+    {
+      "statement": "I'm trying to find a project management software solution that integrates with my existing tools.",
+      "source": "Usability Testing",
+      "context": "During a discussion about productivity and project management software",
+      "job_type": "functional",
+      "user_demographics": {
+        "age": 57,
+        "gender": "Male",
+        "experience_level": "Advanced"
+      }
+    }
+  ]
+}
